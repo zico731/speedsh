@@ -1,2 +1,2 @@
 # speedsh
-génère un fichier executable avec entete : shebang,auteur,date du jour
+Génère un fichier vide executable avec l'entete pré-remplie : shebang,auteur,date du jour
